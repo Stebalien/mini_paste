@@ -1,6 +1,6 @@
 [package]
 name = "mini_paste"
-version = "0.1.10"
+version = "0.1.11"
 authors = ["Daniel Henry-Mantilla <daniel.henry.mantilla@gmail.com>"]
 edition = "2018"
 
@@ -13,7 +13,7 @@ license = "Zlib"
 
 [dependencies.mini_paste-proc_macro]
 path = "src/proc_macro"
-version = "0.1.10"
+version = "0.1.11"
 
 [features]
 nightly = []

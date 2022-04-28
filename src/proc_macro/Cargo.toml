@@ -4,7 +4,7 @@ proc-macro = true
 
 [package]
 name = "mini_paste-proc_macro"
-version = "0.1.10"
+version = "0.1.11"
 authors = ["Daniel Henry-Mantilla <daniel.henry.mantilla@gmail.com>"]
 edition = "2018"
 
